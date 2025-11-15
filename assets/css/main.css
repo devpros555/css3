@@ -4992,3 +4992,15 @@ section,
     font-size: 0.95rem;
   }
 }
+
+
+
+.contact-info-panel a {
+  color: #ffffff !important;
+  font-weight: 500;
+}
+
+.contact-info-panel a:hover {
+  color: #ffd369 !important; /* nice highlight yellow */
+}
+
